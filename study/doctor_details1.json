@@ -1,0 +1,23 @@
+{
+  "Karthik": {
+    "Doctor_Name": "Karthik",
+    "date": "2020-09-08",
+    "ID": "1",
+    "Specialization": "Cardiologist",
+    "Availability": "Y"
+  },
+  "Ramesh": {
+    "Doctor_Name": "Ramesh",
+    "date": "2020-09-08",
+    "ID": "2",
+    "Specialization": "Physician",
+    "Availability": "Y"
+  },
+  "Laxman": {
+    "Doctor_Name": "Laxman",
+    "date": "2020-09-08",
+    "ID": "3",
+    "Specialization": "Dentist",
+    "Availability": "Y"
+  }
+}

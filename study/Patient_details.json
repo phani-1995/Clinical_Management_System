@@ -1,0 +1,16 @@
+{
+  "Rishi": {
+    "PatientName": "Rishi",
+    "ID": "1",
+    "Mobile Number": "7465886393",
+    "Age": "30",
+    "Problem": "Heart related problem"
+  },
+  "Suresh": {
+    "PatientName": "Suresh",
+    "ID": "2",
+    "Mobile Number": "7865838294",
+    "Age": "29",
+    "Problem": "Teeth"
+  }
+}
